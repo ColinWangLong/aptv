@@ -117,7 +117,7 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC.png" group-title="电影频道",AMC电影
-http://61.221.215.25:8800/hls/43/index.m3u8
+http://tw.ts138.top/4g/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://148.135.93.213:81/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
