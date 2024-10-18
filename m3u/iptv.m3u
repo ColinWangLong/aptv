@@ -110,7 +110,7 @@ http://116.233.34.25:7777/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
 http://iptvcyp.top:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://assets.livednow.com/logo/湖南金鹰卡通.pngg" group-title="少儿频道",湖南金鹰卡通
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://assets.livednow.com/logo/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
 http://60.12.183.46:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CN卡通頻道" tvg-logo="https://assets.livednow.com/logo/CN卡通頻道.png" group-title="少儿频道",CN卡通頻道
 http://125.227.210.55:8167/VideoInput/play.ts
