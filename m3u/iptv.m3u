@@ -34,17 +34,17 @@ http://148.135.93.213:81/live.php?id=CCTV15
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
 http://148.135.93.213:81/live.php?id=CCTV17
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 
 
@@ -128,7 +128,7 @@ https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=4fd7a5cd1725342602
 
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
 http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
@@ -208,8 +208,6 @@ https://lunbo.freetv.top/yy/1354936244
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="数字频道",超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
@@ -222,8 +220,6 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="newtv军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="数字频道",军事评论
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="newtv明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="数字频道",明星大片
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道",求索生活
