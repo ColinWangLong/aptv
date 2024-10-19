@@ -40,9 +40,11 @@ http://1.70.35.224:8083/udp/239.1.1.102:8102
 http://1.70.35.224:8083/udp/239.1.1.95:8095
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道", CCTV第一剧场
 http://122.191.206.188:888/udp/228.0.0.235:6108
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道", CCTV世界地理
+http://1.70.35.224:8083/udp/239.1.1.99:8099
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语" group-title="央视频道",CGTN英语
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
@@ -52,9 +54,6 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道", CCTV世界地理
-http://1.70.35.224:8083/udp/239.1.1.99:8099
-
 
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -219,14 +218,14 @@ http://cfss.cc/cdn/hy/11352944.flv
 http://cfss.cc/cdn/hy/11342384.flv
 #EXTINF:-1 tvg-name="西游记1" tvg-id="西游记1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧频道", 西游记1
 http://cfss.cc/cdn/hy/23728660.flv
-#EXTINF:-1 tvg-name="上海滩" group-title="电视剧频道",上海滩
-https://lunbo.freetv.top/yy/1382745184
-#EXTINF:-1 tvg-name="伪装者" group-title="电视剧频道",伪装者
-https://lunbo.freetv.top/yy/1354936244
 #EXTINF:-1 tvg-name="爱情公寓" tvg-id="爱情公寓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧频道", 爱情公寓
 http://cfss.cc/cdn/hy/11336726.flv
 #EXTINF:-1 tvg-name="狂飙" tvg-id="狂飙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧频道", 狂飙
 http://cfss.cc/cdn/yy/17981.flv
+#EXTINF:-1 tvg-name="上海滩" group-title="电视剧频道",上海滩
+https://lunbo.freetv.top/yy/1382745184
+#EXTINF:-1 tvg-name="伪装者" group-title="电视剧频道",伪装者
+https://lunbo.freetv.top/yy/1354936244
 
 
 #EXTINF:-1 tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="数字频道",金牌综艺
