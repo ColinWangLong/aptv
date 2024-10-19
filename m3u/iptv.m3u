@@ -31,7 +31,7 @@ http://148.135.93.213:81/live.php?id=CCTV14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV15
 http://148.135.93.213:81/live.php?id=CCTV15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16
-http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
 http://148.135.93.213:81/live.php?id=CCTV17
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
@@ -130,8 +130,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
 http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
-http://iptvcyp.top:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
@@ -140,8 +138,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="CN卡通頻道" tvg-logo="https://assets.livednow.com/logo/CN卡通頻道.png" group-title="少儿频道",CN卡通頻道
-http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
