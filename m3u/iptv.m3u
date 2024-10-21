@@ -37,9 +37,9 @@ http://148.135.93.213:81/live.php?id=CCTV17
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-id="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视频道", CCTV高尔夫网球
 http://1.70.35.224:8083/udp/239.1.1.102:8102
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道", CCTV风云足球
-http://113.195.4.134:9901/tsfile/live/1049_1.m3u8?key=txiptv
+http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-id="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道", CCTV风云音乐
-http://mryx.fun:1025/udp/239.11.0.68:1025
+http://www.lizhinas.top:8688/rtp/239.252.219.87:5140
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道", CCTV怀旧剧场
 http://1.70.35.224:8083/udp/239.1.1.95:8095
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道", CCTV第一剧场
